@@ -1,4 +1,4 @@
-# Aplikasi E-Commerce
+# Aplikasi E-Commerce Flutter dengan Backend Strapi dan Database MySQL
 
 ![Tangkapan Layar Aplikasi](link_gambar_screenshot)
 
@@ -12,6 +12,12 @@ Selamat datang di proyek Flutter pertama saya, sebuah aplikasi E-Commerce yang m
 - [x] **Pencarian Produk:** Temukan produk favorit Anda dengan mudah menggunakan fitur pencarian yang intuitif.
 - [x] **Proses Checkout:** Pengalaman pembayaran yang nyaman dan aman.
 - [x] **Gateway Pembayaran Midtrans:** Dukungan untuk pembayaran menggunakan Midtrans.
+
+## Teknologi yang Digunakan
+
+- Flutter untuk pengembangan aplikasi mobile.
+- Strapi sebagai backend untuk manajemen konten.
+- MySQL sebagai database untuk menyimpan informasi produk dan pengguna.
 
 ## Memulai
 
@@ -31,13 +37,14 @@ Kontribusi sangat diterima! Silakan buka isu atau kirimkan permintaan tarik.
 
 ## Pengakuan
 
-Proyek ini terinspirasi oleh hasrat terhadap pengembangan Flutter dan menciptakan pengalaman pengguna yang luar biasa. Terima kasih khusus kepada tim Flutter atas kerangka kerja yang luar biasa dan komunitas sumber terbuka atas sumber daya berharga.
+Proyek ini terinspirasi oleh hasrat terhadap pengembangan Flutter dan menciptakan pengalaman pengguna yang luar biasa. Terima kasih khusus kepada tim Flutter atas kerangka kerja yang luar biasa, komunitas sumber terbuka, serta tim pengembangan Strapi.
 
 ## Sumber Daya
 
 - [Dokumentasi Flutter](https://flutter.dev/docs)
 - [Repositori Flutter di GitHub](https://github.com/flutter/flutter)
-- [Bahasa Pemrograman Dart](https://dart.dev/)
+- [Strapi Documentation](https://strapi.io/documentation)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
 - [Midtrans Payment Gateway](https://midtrans.com/)
 
 ## Lisensi
